@@ -1,6 +1,6 @@
 # Barcode Battler
 
-Q. これはなに
+Q. これはなに  
 A. (バトルできない)バーコードバトラー
 
 [いのま](https://twitter.com/iNoma_main) 氏と行ったAndroid実装マラソン 第0回で実装したもの
